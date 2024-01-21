@@ -1,5 +1,6 @@
 # ERP
 ERP Model
+This is a high-level overview
 
 Building a comprehensive ERP accounting system integrated with Grey Stocks and a Quantitative Store Inventory System involves several components, including backend development, database design, API integration, and frontend design. Below is an outline of key features, modules, and integration points for the system, along with a detailed plan and code snippets for each component.
 
